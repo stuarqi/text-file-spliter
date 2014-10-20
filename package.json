@@ -1,0 +1,19 @@
+{
+  "name": "text-file-spliter",
+  "version": "1.0.0",
+  "description": "Large text files branches split tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuarqi/text-file-spliter"
+  },
+  "keywords": [
+    "large text file",
+    "split cut"
+  ],
+  "author": "zhangsq",
+  "license": "ISC"
+}
