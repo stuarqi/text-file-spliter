@@ -1,6 +1,6 @@
 {
   "name": "text-file-spliter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Large text files branches split tool.",
   "main": "index.js",
   "scripts": {
